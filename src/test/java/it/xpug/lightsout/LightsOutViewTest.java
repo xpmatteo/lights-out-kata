@@ -8,7 +8,7 @@ import it.xpug.toolkit.html.*;
 
 import org.junit.*;
 
-public class IndexViewTest {
+public class LightsOutViewTest {
 
 	@Test
 	public void insertValues() {

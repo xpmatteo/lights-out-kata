@@ -1,8 +1,7 @@
-package it.xpug.lightsout.end_to_end;
+package it.xpug.lightsout;
 
 import static java.util.Arrays.*;
 import static org.junit.Assert.*;
-import it.xpug.lightsout.*;
 import it.xpug.toolkit.http.*;
 
 import java.util.*;
